@@ -74,6 +74,33 @@ I’ve led complex projects for clients such as Anadolu Efes and DHMİ, building
 
 ---
 
+## 🎯 Featured Projects
+
+| Project Name  | Description                                                                       | Demo / Repo                                           |
+|---------------|-----------------------------------------------------------------------------------|------------------------------------------------------|
+| SafeWorks360  | Comprehensive OHS system for Anadolu Efes managing documents, visitors, contractors, transport, risks. | [Live Demo](https://safeworks360.example.com) / [GitHub](https://github.com/emirhanuluksar/safeworks360) |
+| UstaHocam     | AI-powered education app with live lessons, tests, performance tracking, personalized learning.        | [GitHub](https://github.com/emirhanuluksar/ustahocam)                            |
+| Microservices Platform | Scalable backend with .NET 9, MassTransit & RabbitMQ async messaging, Quartz.NET scheduling.     | Private / Internal                                    |
+
+---
+
+## 📦 GitHub Stats & Trophies
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emirhanuluksar&show_icons=true&count_private=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhanuluksar&layout=compact&langs_count=8&theme=radical" />
+</p>
+
+<p align="center">
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=emirhanuluksar&theme=radical)
+</p>
+
+<p align="center">
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emirhanuluksar&theme=radical)
+</p>
+
+---
+
 ## 📫 Contact Me
 
 I'm always open for new collaborations or just a tech chat. Feel free to reach out:
