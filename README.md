@@ -1,25 +1,105 @@
-<h1 align="left">Hello there! 👋 I'm Emirhan</h1>
-<h3 align="left">Glad to see you here!</h3>
-<p align="left">I'm a computer programming student at Istanbul University. 🎓 My journey into the world of software began in August 2021 on GitHub, but my experience in software development spans over five years.
-
-The deep interest and curiosity I have for new technologies, combined with my solutions to real-life problems, result in exciting projects. 🚀 I also provide software consultancy to companies, actively participate in significant projects, and consistently prioritize timely project delivery. My success in establishing long-term collaborations is a testament to my commitment.
-
-For more than five years, my focus has primarily been on backend development, service design, database management, and working on data structures and algorithms. Additionally, I have frontend knowledge, developing interfaces using languages such as Angular and React. 💻
-
-The projects shared on my GitHub profile not only showcase my programming skills but also open a door for those who want to join me on this exciting journey. 🌐 If you're interested in exploring my projects and progressing together, I welcome you! 🤝
-
-Feel free to reach out for any questions, feedback, or collaboration proposals.
-
-Best regards,
-Emirhan 🚀</p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/emirhanuluksar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emirhanuluksar/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/uemirhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/uemirhan" height="30" width="40" /></a>
-<a href="https://medium.com/@emirhanuluksar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@emirhanuluksar" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://your-photo-url.com/profile.jpg" alt="Emirhan Uluksar" width="160" style="border-radius: 50%;" />
 </p>
 
+<h1 align="center">Hi, I'm Emirhan Uluksar 👋</h1>
+<p align="center">
+  <em>Senior Software Engineer | .NET Specialist | Microservices & Cloud Enthusiast</em>
+</p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/emirhanuluksar" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/emirhanuluksar" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:emirhan.uluksar@example.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourtwitter" target="_blank" rel="noopener noreferrer">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I am a passionate **Senior Software Engineer** with over 8 years of experience specializing in **.NET Core**, **C#**, and scalable microservices architecture. Skilled in backend development, cloud-native applications, and system optimization. I thrive in fast-paced environments where innovative and clean code matters.  
+
+I believe in **continuous learning**, **mentorship**, and **collaborative teamwork** to create software that truly adds value.
+
+---
+
+## 🛠️ Technical Skills
+
+| Backend                   | Frontend                 | Databases                 | Messaging & Cache         | DevOps & Tools          |
+|---------------------------|--------------------------|---------------------------|--------------------------|-------------------------|
+| C#, .NET Core, .NET 6     | Angular, Vue.js (Basics) | MS SQL Server, PostgreSQL | RabbitMQ, Redis           | Docker, Kubernetes      |
+| Entity Framework Core     | JavaScript, JQuery       | Elasticsearch, MongoDB    |                          | Git, TFS                |
+| Dapper, LINQ              | HTML5, CSS3              | NoSQL                     |                          | CI/CD (Jenkins, Octopus)|
+| REST, SOAP, WCF           |                          |                           |                          |                         |
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emirhanuluksar&show_icons=true&count_private=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhanuluksar&layout=compact&langs_count=8&theme=radical" />
+</p>
+
+---
+
+## 🎖️ Badges & Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Certified-.NET_Expert-0078D7?style=for-the-badge&logo=.net&logoColor=white" alt=".NET Expert" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure_Developer-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Developer" />
+  <img src="https://img.shields.io/badge/Agile_Certified-ff69b4?style=for-the-badge&logo=agile&logoColor=white" alt="Agile Certified" />
+  <img src="https://img.shields.io/badge/Cloud_Enthusiast-00aced?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloud Enthusiast" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### Project 1 — **Enterprise Microservices Platform**  
+- Designed and developed scalable microservices architecture using **.NET Core**, **Docker**, and **Kubernetes**.  
+- Integrated **RabbitMQ** for asynchronous messaging and **Redis** for caching.  
+- Led CI/CD pipeline implementation with **Jenkins** and **Octopus Deploy**.
+
+### Project 2 — **Real-Time Notification System**  
+- Developed using **SignalR** and **gRPC** to enable real-time bi-directional communication.  
+- Optimized system performance by implementing efficient message queuing and load balancing.
+
+### Project 3 — **Data-Driven E-Commerce Backend**  
+- Built robust RESTful APIs with **ASP.NET Core Web API** and **Entity Framework Core**.  
+- Handled large-scale SQL and NoSQL databases for fast data retrieval and analytics.
+
+---
+
+## 📺 Portfolio / Visual Showcase
+
+<p align="center">
+  <img src="https://your-portfolio-image-url.com/project1.png" alt="Project 1 Screenshot" width="320" style="margin: 10px; border-radius: 12px;" />
+  <img src="https://your-portfolio-image-url.com/project2.png" alt="Project 2 Screenshot" width="320" style="margin: 10px; border-radius: 12px;" />
+  <img src="https://your-portfolio-image-url.com/project3.png" alt="Project 3 Screenshot" width="320" style="margin: 10px; border-radius: 12px;" />
+</p>
+
+---
+
+## 💬 Let's Connect!
+
+I love to talk code, cloud, and tech innovation. Feel free to reach out anytime!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emirhanuluksar)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emirhanuluksar)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emirhan.uluksar@example.com)
+
+---
+
+<p align="center"><em>“Software is not just code — it’s crafting solutions that impact people.”</em> — Emirhan Uluksar</p>
