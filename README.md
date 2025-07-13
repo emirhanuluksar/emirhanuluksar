@@ -78,7 +78,7 @@ I’ve led complex projects for clients such as Anadolu Efes and DHMİ, building
 
 | Project Name  | Description                                                                       | Demo / Repo                                           |
 |---------------|-----------------------------------------------------------------------------------|------------------------------------------------------|
-| SafeWorks360  | Comprehensive OHS system for Anadolu Efes managing documents, visitors, contractors, transport, risks. | [Live Demo](https://safeworks360.com) / Private / Internal  |
+| SafeWorks360  | Comprehensive OHS system for Anadolu Efes managing documents, visitors, contractors, transport, risks. | Private / Internal  |
 | UstaHocam     | AI-powered education app with live lessons, tests, performance tracking, personalized learning.        | Private / Internal                           |
 | Microservices Platform | Scalable backend with .NET 9, MassTransit & RabbitMQ async messaging, Quartz.NET scheduling.     | Private / Internal                                    |
 
