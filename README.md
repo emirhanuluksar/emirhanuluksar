@@ -81,7 +81,6 @@ I'm always open for new collaborations or just a tech chat. Feel free to reach o
 - [LinkedIn](https://www.linkedin.com/in/emirhanuluksar)  
 - [GitHub](https://github.com/emirhanuluksar)  
 - Email: emirhan.uluksar@dgtalhat.com  
-- Twitter: [@emirhanuluksar](https://twitter.com/emirhanuluksar)
 
 ---
 
