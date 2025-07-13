@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="Emirhan Uluksar" width="160" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/emirhanuluksar" alt="Emirhan Uluksar" width="160" style="border-radius: 50%;" />
 </p>
-
 <h1 align="center">Hi, I'm Emirhan Uluksar 👋</h1>
 <p align="center">
   <em>Founder at Digital HAT | Senior Software Engineer | .NET Core & Microservices Specialist | Cloud & DevOps Enthusiast</em>
