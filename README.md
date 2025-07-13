@@ -84,13 +84,6 @@ I’ve led complex projects for clients such as Anadolu Efes and DHMİ, building
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emirhanuluksar&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=emirhanuluksar&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" width="400"/>
-</p>
-
-
-
 ## 📫 Contact Me
 
 I'm always open for new collaborations or just a tech chat. Feel free to reach out:
